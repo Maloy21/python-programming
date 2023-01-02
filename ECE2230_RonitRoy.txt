@@ -1,0 +1,14 @@
+Name of the student : Ronit Roy 
+Class Roll of the student : 30 
+Stream of the student : ECE 
+Your Student ID is : ECE2230
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 99 
+Marks obtained in Physics is : null 
+Marks obtained in Chemistry is : 100 
+Marks obtained in Biology is : 93 
+Marks obtained in English is : 96 
+
+You have got 486 in total with 97%
+Outstanding Performance... You have passed the exam with grade A.
